@@ -38,17 +38,20 @@ El proyecto sigue la estructura de **Clean Architecture**, asegurando un código
    ```bash
    git clone https://github.com/tuusuario/nombre-del-proyecto.git
 2. Navega al directorio del proyecto:
+   ```bash
    cd nombre-del-proyecto
-3. Instala las dependencias:
+4. Instala las dependencias:
+   ```bash
    flutter pub get
 
 ## Uso
 1. Ejecuta la aplicación:
+   ```bash
    flutter run
-2. Sigue las instrucciones en pantalla para navegar y utilizar las diferentes funcionalidades de la aplicación.
+3. Sigue las instrucciones en pantalla para navegar y utilizar las diferentes funcionalidades de la aplicación.
 
 ## Author
   Jean Carlo Chunga Sandoval
-  Linkedin: https://www.linkedin.com/in/jecachusa/
-  GitHub: https://github.com/JeanDeveloper
-  Correo Electronico: jecachusa.1996@gmail.com
+Linkedin: https://www.linkedin.com/in/jecachusa/
+GitHub: https://github.com/JeanDeveloper
+Correo Electronico: jecachusa.1996@gmail.com
